@@ -19,3 +19,12 @@ to use async error handler.
 # git commit -m 'Goals controller and routers setup.' 
 
 // mongodb connection would be done through the cloud mongo atlas of chamaldeshitha2001@gmail.com
+
+------------------------ 2nd video --------------------------------------------
+
+install bcrypt to encrypt the passwords and jsonwebtoken to use
+# npm i bcryptjs jsonwebtoken
+
+// when we create an env variable it is a good practice to restart the server manually.
+
+there was an error while sending the request from the postman with the login token for getting me endpoint.
