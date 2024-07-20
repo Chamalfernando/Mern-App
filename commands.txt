@@ -1,0 +1,20 @@
+# npm init 
+
+# npm i express dotenv mongoose colors 
+colors is for colors in the console
+
+# npm i -D nodemon
+nodemon as a dev dependency
+
+# npm run server - with nodemon 
+
+# git init 
+# git add .
+# git commit -m 'Initial commit'
+
+# npm install express-async-handler 
+
+# git add .
+# git commit -m 'Goals controller and routers setup.' 
+
+watch from 41.00 mins onwards. There was an error in mongodb connection.
