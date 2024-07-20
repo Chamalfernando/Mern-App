@@ -12,9 +12,10 @@ nodemon as a dev dependency
 # git add .
 # git commit -m 'Initial commit'
 
-# npm install express-async-handler 
+to use async error handler.
+# npm install express-async-handler
 
 # git add .
 # git commit -m 'Goals controller and routers setup.' 
 
-watch from 41.00 mins onwards. There was an error in mongodb connection.
+// mongodb connection would be done through the cloud mongo atlas of chamaldeshitha2001@gmail.com

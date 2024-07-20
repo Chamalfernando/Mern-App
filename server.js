@@ -17,6 +17,6 @@ app.use(express.urlencoded({ extended: false }));
 
 app.use("/api/goals",goalRoutes)
 
-app.use(errorHandler);
+app.use(errorHandler); // will override the default express error handler.
 
 app.listen(port, () => console.log(`Server started on port ${port}`));
